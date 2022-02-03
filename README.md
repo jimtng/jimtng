@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+- 🔭 I’m currently using and contributing to
+  - https://openhab.org
+  - https://github.com/boc-tothefuture/openhab-jruby
+- 🌱 I’m currently learning: Ruby
+- 🌱 I’d like to learn: Julia, Go
+- 🌱 Languages I have used: C++, Delphi/Pascal, PHP, Perl, Java 
+- 🌱 Editor: VSCode
+- ⚡ Hobbies and Interests: Home automation, Table tennis, Star Trek
+-->
